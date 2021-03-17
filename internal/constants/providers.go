@@ -6,6 +6,7 @@ import "github.com/qdm12/ddns-updater/internal/models"
 const (
 	CLOUDFLARE   models.Provider = "cloudflare"
 	DIGITALOCEAN models.Provider = "digitalocean"
+	DD24         models.Provider = "dd24"
 	DDNSSDE      models.Provider = "ddnss"
 	DONDOMINIO   models.Provider = "dondominio"
 	DNSOMATIC    models.Provider = "dnsomatic"
@@ -34,6 +35,7 @@ func ProviderChoices() []models.Provider {
 	return []models.Provider{
 		CLOUDFLARE,
 		DIGITALOCEAN,
+		DD24,
 		DDNSSDE,
 		DONDOMINIO,
 		DNSOMATIC,

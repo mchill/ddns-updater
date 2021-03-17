@@ -21,6 +21,7 @@
     - Cloudflare
     - DDNSS.de
     - DigitalOcean
+    - [DD24](domaindiscount24.com)
     - DonDominio
     - DNSOMatic
     - DNSPod
@@ -130,6 +131,7 @@ Check the documentation for your DNS provider:
 - [Cloudflare](https://github.com/qdm12/ddns-updater/blob/master/docs/cloudflare.md)
 - [DDNSS.de](https://github.com/qdm12/ddns-updater/blob/master/docs/ddnss.de.md)
 - [DigitalOcean](https://github.com/qdm12/ddns-updater/blob/master/docs/digitalocean.md)
+- [DD24](https://github.com/qdm12/ddns-updater/blob/master/docs/domaindiscount24.md)
 - [DonDominio](https://github.com/qdm12/ddns-updater/blob/master/docs/dondominio.md)
 - [DNSOMatic](https://github.com/qdm12/ddns-updater/blob/master/docs/dnsomatic.md)
 - [DNSPod](https://github.com/qdm12/ddns-updater/blob/master/docs/dnspod.md)
